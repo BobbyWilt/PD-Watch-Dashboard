@@ -1,4 +1,4 @@
-# PD-Watch-Dashboard - WIP
+# PD-Watch-Dashboard
 Creates a visualization dashboard of Parkinson's patient wearable and self-report data.
 
 Data and preprocessing coded created by Jeroen Habits and more info can be found in these links:<br>
