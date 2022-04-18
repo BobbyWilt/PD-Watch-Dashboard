@@ -10,3 +10,6 @@ This project is currently in early stages whereby the dashboard layout and plot 
 2. Scatter polar plot of patient mood scores
 3. Scatter polar plot on cognition assessments
 4. Scatter polar of patient-reported symptom severity
+
+Sample pic of an early version of the dashboard:
+![Screenshot](https://github.com/BobbyWilt/PD-Watch-Dashboard/blob/main/sample/dashboard.JPG)
