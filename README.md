@@ -12,4 +12,4 @@ This project is currently in early stages whereby the dashboard layout and plot 
 4. Scatter polar of patient-reported symptom severity
 
 Sample pic of an early version of the dashboard:
-![Screenshot](https://github.com/BobbyWilt/PD-Watch-Dashboard/blob/main/sample/dashboard.JPG)
+![Screenshot](https://github.com/BobbyWilt/PD-Watch-Dashboard/blob/main/sample/dashboard_2.0.jpg)
